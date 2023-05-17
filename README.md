@@ -1,5 +1,5 @@
 # Project PIR - NOMA system
-This programme, run on Matlab, is used to simulate the NOMA system where each user transmits only one bit with the value of "1".
+This programme, run on Matlab, is used to simulate the NOMA system where each user transmits only one bit.
 There are three parts including "encoding", "decoding" and "check"
 
 # Encoding
